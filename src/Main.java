@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Git Animalll");
+        System.out.println("Git Animallal");
     }
 }
